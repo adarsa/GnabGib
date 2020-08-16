@@ -1,4 +1,6 @@
-# stopwords-json [![Build Status](https://travis-ci.org/6/stopwords-json.svg?branch=travis)](https://travis-ci.org/6/stopwords-json) [![npm](https://img.shields.io/npm/v/stopwords-json.svg?maxAge=3600)](https://www.npmjs.com/package/stopwords-json) [![Bower](https://img.shields.io/bower/v/stopwords-json.svg?maxAge=3600)](https://bower.io/)
+The files in this repo are copied from a previous obsolete project for stopword removal support in multiple laguages.
+
+# stopwords-json [![Build Status]
 
 Stopwords for various languages in JSON format. Per [Wikipedia](http://en.wikipedia.org/wiki/Stop_words):
 
@@ -72,6 +74,3 @@ Zulu | 29 | [zu.json](dist/zu.json)
 - SMART Information Retrieval System: ftp://ftp.cs.cornell.edu/pub/smart/
 - [ASP Stoplist Project](https://github.com/dohliam/more-stoplists) - CC-BY and Apache 2.0
 
-## License and Copyright
-Copyright (c) 2017 Peter Graham, contributors.
-Released under the Apache-2.0 license.
