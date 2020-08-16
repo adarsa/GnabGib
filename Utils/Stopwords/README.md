@@ -72,6 +72,3 @@ Zulu | 29 | [zu.json](dist/zu.json)
 - SMART Information Retrieval System: ftp://ftp.cs.cornell.edu/pub/smart/
 - [ASP Stoplist Project](https://github.com/dohliam/more-stoplists) - CC-BY and Apache 2.0
 
-## License and Copyright
-Copyright (c) 2017 Peter Graham, contributors.
-Released under the Apache-2.0 license.
