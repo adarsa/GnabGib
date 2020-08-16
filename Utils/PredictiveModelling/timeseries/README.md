@@ -1,6 +1,5 @@
 # R--predictive-modelling
-
-I will add in this repository my work on different learning algorithms and data modelling in R.
+The code in this repo was copied from an obsolete repository of my previos work on different learning algorithms and data modelling in R.
 
 1. tslm_dynamic.R: (Implementation of tslm model for a data with unknown column names(independent variables))
 
