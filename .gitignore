@@ -1,0 +1,7 @@
+*.pyc
+.coverage
+venv
+**/target
+framework/build_env
+.DS_Store
+*/nohup.out
